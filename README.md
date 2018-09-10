@@ -1,2 +1,2 @@
-# Dual-Readout-
+# Dual-Readout
 Dual Readout simulation
